@@ -1,0 +1,9 @@
+c:\users\владимир\documents\visual studio 2012\Projects\RandomQuantityProject\RandomQuantityProject\bin\Debug\RandomQuantityProject.exe.config
+c:\users\владимир\documents\visual studio 2012\Projects\RandomQuantityProject\RandomQuantityProject\obj\Debug\RandomQuantityProject.csprojResolveAssemblyReference.cache
+c:\users\владимир\documents\visual studio 2012\Projects\RandomQuantityProject\RandomQuantityProject\obj\Debug\RandomQuantityProject.Form1.resources
+c:\users\владимир\documents\visual studio 2012\Projects\RandomQuantityProject\RandomQuantityProject\obj\Debug\RandomQuantityProject.Properties.Resources.resources
+c:\users\владимир\documents\visual studio 2012\Projects\RandomQuantityProject\RandomQuantityProject\obj\Debug\RandomQuantityProject.csproj.GenerateResource.Cache
+c:\users\владимир\documents\visual studio 2012\Projects\RandomQuantityProject\RandomQuantityProject\bin\Debug\RandomQuantityProject.exe
+c:\users\владимир\documents\visual studio 2012\Projects\RandomQuantityProject\RandomQuantityProject\bin\Debug\RandomQuantityProject.pdb
+c:\users\владимир\documents\visual studio 2012\Projects\RandomQuantityProject\RandomQuantityProject\obj\Debug\RandomQuantityProject.exe
+c:\users\владимир\documents\visual studio 2012\Projects\RandomQuantityProject\RandomQuantityProject\obj\Debug\RandomQuantityProject.pdb
